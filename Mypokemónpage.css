@@ -1,0 +1,72 @@
+body {
+    font-family:sans-serif;
+    background-color: #ffffff;
+    background-image: url(giffondo.webp);
+    background-size: cover;
+}
+
+nav {
+    background-color: #ff0000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: rgb(255, 0, 0);
+    margin: 0 10px;
+}
+
+#content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f80000fb;
+}
+
+#AcercaPage {
+    background-image: url(desarrollador.jpg);
+    background-size: 80%;
+    background-position: center bottom;
+    padding: 270px;
+    text-align: center;
+    color: #0d00ff;
+}
+
+
+#BuscarPage input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+#BuscarPage button {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #ff0000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#BuscarPage button:hover {
+    background-color: #ffffff;
+}
+
+h2 {
+    color: #000000;
+    text-align: center;
+}
+
+p {
+    color: #000000;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    display: block;
+    margin: 50px auto;
+}
+
